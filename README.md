@@ -42,5 +42,7 @@ display: specifies the display behavior of an element.
 
 justify-content: defines how the browser distributes space between and around the content items along the main-axis of a flex container and inline axix of grid container.
 
-![image](https://user-images.githubusercontent.com/88819472/132131327-77d8a93d-6382-4a48-82aa-64a2a8945c23.png)
+# screenshot
+
+![image](https://user-images.githubusercontent.com/88819472/132131435-a0be0d21-b01f-4e2a-817c-f37be74ba35a.png)
 
