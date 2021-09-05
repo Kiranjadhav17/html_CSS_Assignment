@@ -1,7 +1,9 @@
 # html_CSS_Assignment
+
 This is made with HTML and CSS.
 
-#CSS Properties
+# CSS Properties
+
 Font style: Specifies the font style for text.
 
 Font size: Specifies the font size for text
